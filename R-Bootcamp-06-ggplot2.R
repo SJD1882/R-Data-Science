@@ -1,0 +1,8 @@
+### R DATA SCIENCE AND MACHINE LEARNING BOOTCAMP
+### UDEMY MOOC
+### R PROGRAMMING - DATA VISUALIZATION AND GGPLOT2
+
+setwd(dir = 'C:/Users/Sebastien David/R-Data-Science')
+
+
+###### 6. AAA ######
