@@ -111,3 +111,6 @@ ex7
 
 
 # 5.3.3. A
+
+pack = available.packages()
+pack['deepnet','Depends']
